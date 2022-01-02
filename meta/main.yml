@@ -1,0 +1,22 @@
+---
+dependencies: []
+
+galaxy_info:
+  role_name: epel
+  author: neoloc
+  description: EPEL repository for RHEL/CentOS.
+  license: "license (BSD, MIT)"
+  min_ansible_version: 2.5
+  platforms:
+    - name: EL
+      versions:
+        - 7
+        - 8
+  galaxy_tags:
+    - packaging
+    - epel
+    - repository
+    - repo
+    - redhat
+    - centos
+    - rhel
